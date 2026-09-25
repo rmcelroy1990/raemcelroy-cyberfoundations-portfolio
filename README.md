@@ -4,7 +4,7 @@
 
 ## About Me
 
-[Replace this paragraph with at least three sentences: who you are, why you are learning cybersecurity, and one learning goal for this course. Keep the `## About Me` heading and the rest of this README.]
+Hi, my name is Raeme, but you can call me Rae McElroy. I began learning cybersecurity because it felt like an attainable career change that could offer long-term stability and room for growth. My goal for this course is to strengthen my cybersecurity skills, expand my knowledge, and stay informed about emerging trends and technologies. I am especially interested in learning more about PKI as I work toward earning my CCP certification.
 
 This repository documents your hands-on learning through the **CyberVisionaries Institute Cyber Foundations (Tier I)** program.
 
