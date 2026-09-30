@@ -187,4 +187,4 @@ I think the software layer is the hardest to secure because software is constant
 
 - [x] All three Lab Report Questions answered in complete sentences
 
-- [ ] This file is committed to your portfolio repo at `week-02/labs/lab-01-hardware-os-software-diagram.md`
+- [x] This file is committed to your portfolio repo at `week-02/labs/lab-01-hardware-os-software-diagram.md`
